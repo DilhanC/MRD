@@ -1,12 +1,12 @@
-import '../../pages/Home/Home.css'
+import '../../pages/Home/Home.scss'
 
 export default function Home() {
 
 
 
     return (
-        <div>
-            <h1 className="title">Hello</h1>
+        <div className="home">
+            
         </div>
     )
 }

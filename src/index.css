@@ -1,9 +1,7 @@
 body {
-    background-color: aqua;
-    margin: 0;
-    font-family: 'Segoe UI', 'Roboto', 'Oxygen',
-        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-        sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+    margin: 0 auto;
+    font-family: "Arimo", "sans-serif";
+    background-color: #ffffff;
+    max-width: 1440px;
+    box-sizing: border-box;
 }
